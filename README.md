@@ -55,7 +55,7 @@ Please consider sourcing materials from local stores instead of Amazon, if you c
 
 ### Sourcing scratch-and-sniff stickers
 
-For our toolkit to be practical, you'll need scratch-and-sniff stickers. Commercial scratch-and-sniff stickers for children are incredibly accessible and cheap, including good and bad scents. We created a dataset of 800 scratch-and-sniff stickers from 22 brands to facilitate sticker selection. We manually extracted each sticker’s scent, dimensions, and price per cm2. The dataset includes 538 unique scents, depicting a wide variety at costs as low as 0.00035 USD per cm2. [You can find its CSV here!](https://github.com/humancomputerintegration/smell-and-paste/blob/main/CommercialSaS_v00.csv) (Jas recommends Just For Laughs' [Stink Factory stickers](https://www.thestinkfactory.com/) for their variety and price.)
+For our toolkit to be practical, you'll need scratch-and-sniff stickers. Commercial scratch-and-sniff stickers for children are incredibly accessible and cheap, including good and bad scents. We created a dataset of 800 scratch-and-sniff stickers from 22 brands to facilitate sticker selection. We manually extracted each sticker’s scent, dimensions, and price per cm2. The dataset includes (nominally) 538 unique scents, depicting a wide variety at costs as low as 0.00035 USD per cm2. [You can find its CSV here!](https://github.com/humancomputerintegration/smell-and-paste/blob/main/CommercialSaS_v00.csv) (Jas recommends Just For Laughs' [Stink Factory stickers](https://www.thestinkfactory.com/) for their variety and price.)
 
 
 ## Licensing & Citing
