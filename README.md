@@ -26,9 +26,12 @@ This is a repository for the Smell & Paste low-fidelity prototyping toolkit for 
 | Super glue                        | At home or Purchase | 1        | [Home Depot](https://www.homedepot.com/p/Loctite-0-14-fl-oz-Ultra-Gel-Control-Super-Glue-1363589/202020461)               | $5.68      | $5.68      | To glue the hinges for the 3D printed cassette. Alternatively, you can use duct tape as a hinge.         |
 | Scratch-and-sniff stickers!       | At home or Purchase | ~        | Check out Dataset               | ~          | ~          |                                                                                                          |
 |                                   |                     |          |                | **Total Cost** | $26.56     | To get things started!                                                                                   |
+
 Consider sourcing materials from local stores instead of Amazon, if you can! A lot of this can be found in hardware stores, general stores, and stationary stores.
 
 ### Cardboard version
+
+
 
 ### Sourcing scratch-and-sniff stickers
 
