@@ -30,16 +30,18 @@ This is a repository for the Smell & Paste low-fidelity prototyping toolkit for 
 
 Please consider sourcing materials from local stores instead of Amazon, if you can! A lot of these items can be found in your home, hardware stores, general stores, and stationary stores.
 
+All 3D printed parts do not need any support structures except for the spools (and - even then - could probably do fine without).
+
 ### Cardboard version
 
 | Item                                                 | Sourcing            | Quantity | Example Source | Unit Cost  | Total Cost | Note                                                                                                     |
 |------------------------------------------------------|---------------------|----------|----------------|------------|------------|----------------------------------------------------------------------------------------------------------|
-| Cardboard (Xmm)                                      | 3D Print            | 2        |                | ~          | ~          |                                                                                                          |
-| 1.6in Diameter Paper Tube (Spools)                   | 3D Print            | 2        |                | ~          | ~          | Cut the tube to have 2 tubes of length Xin.                                                              |
+| Cardboard (2.75mm)                                      | 3D Print            | 2        |                | ~          | ~          | Amazon packages are typically the perfect thickness for this.                                                                                                          |
+| 1.6in Diameter Paper Tube (Spools)                   | 3D Print            | 2        |                | ~          | ~          | Cut the tube to have 2 tubes of length 4cm.                                                              |
 | Ream of Printer/Copy Paper (20lb)                    | At home or Purchase | 1        |                | $10.00     | $10.00     | Any kind of paper at home works!                                                                         |
 | Tape (Splicing)                   | At home or Purchase | 1        | [Bari Zaki Studio](https://www.barizaki.com/shop/washi-tape-bookshelf)               | $6.00      | $6.00      | Preferably a flexible tape like painter's tape. We recommend Washi tape for how thin and flexible it is! |
 | Tape (Spool)                      | At home or Purchase | 1        | [Home Depot](https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-55-yd-394-General-Purpose-Duct-Tape-in-Silver-Sealer-1529728/100080300)               | $4.88      | $4.88      | Preferably a stickier tape to bind the paper tape to the spools. We recommend cheap duct tape.           |
-| Glue stick                                           | At home or Purchase | 1        |                | $5.68      | $5.68      | To glue cardboard pieces together.                                                                       |
+| Glue stick                                           | At home or Purchase | 1        | [Walgreens](https://www.walgreens.com/store/c/elmer's-disappearing-purple-school-glue-sticks/ID=prod17798-product)               | $3.79      | $3.79      | To glue cardboard pieces together. together.                                                                       |
 | Velcro (hook-and-loop fasteners) with Sticky Backing | At home or Purchase | 1        | [Home Depot](https://www.homedepot.com/p/VELCRO-Brand-3-1-2-in-x-3-4-in-Sticky-Back-Strips-4-Pack-90075/202261913)               | $3.28      | $3.28      | For comb.                                                                                                |
 | Scratch-and-sniff stickers!                          | At home or Purchase | ~        |                | ~          | ~          |                                                                                                          |
 |                                                      |                     |          |                | Total Cost | $26.56     | To get things started!                                                                                   |
