@@ -11,6 +11,8 @@ This is a repository for the Smell & Paste low-fidelity prototyping toolkit for 
 
 ### 3D Printed version
 
+`3D_Print` contains all the files for the 3D printed version of the cassette. It contains both the parametric Fusion 360 file (`Cassette_3dPrinted_v69.f3d`) as well as all the STL files for printing off the bat (`\STL`). You will have to print two of the rollers (`SaP_Nylon_Roller.stl`) and spools (`SaP_Nylon_Spool.stl`) for one cassette.
+
 | Item                              | Sourcing            | Quantity | Example Source | Unit Cost  | Total Cost | Note                                                                                                     |
 |-----------------------------------|---------------------|----------|----------------|------------|------------|----------------------------------------------------------------------------------------------------------|
 | [Case (Bottom)](https://github.com/humancomputerintegration/smell-and-paste/blob/main/3D_Print/STL/SaP_Nylon_CaseBottom.stl)                     | 3D Print            | 1        |                | ~          | ~          |                                                                                                          |
@@ -34,6 +36,8 @@ All 3D printed parts do not need any support structures except for the spools (a
 
 ### Cardboard version
 
+`Cardboard` contains all the files for the cardboard version of the cassette. It contains one version for lasercutters (`\Lasercut`) and one for manual cutting using an Xacto knife (`\Manual`). Please note that if you are lasercutting the cardboard version, you will have to leave the pieces to ventilate so that there is no residual burn odor (you can also adjust the settings to decrease burning as much as possible, and can also put the pieces with an ozone generator to speed up the deodorization). For manual cutting, print out the pages (PDF) and paste them on 2.5 mm cardboard. Then use an exacto knife to follow lines.
+
 | Item                                                 | Sourcing            | Quantity | Example Source | Unit Cost  | Total Cost | Note                                                                                                     |
 |------------------------------------------------------|---------------------|----------|----------------|------------|------------|----------------------------------------------------------------------------------------------------------|
 | Cardboard (2.75mm)                                      | 3D Print            | 2        |                | ~          | ~          | Amazon packages are typically the perfect thickness for this.                                                                                                          |
@@ -51,8 +55,8 @@ Please consider sourcing materials from local stores instead of Amazon, if you c
 
 ### Sourcing scratch-and-sniff stickers
 
-* `3D_Print` contains all the files for the 3D printed version of the cassette. It contains both the parametric Fusion 360 file (`Cassette_3dPrinted_v69.f3d`) as well as all the STL files for printing off the bat (`\STL`). You will have to print two of the rollers (`SaP_Nylon_Roller.stl`) and spools (`SaP_Nylon_Spool.stl`) for one cassette.
-* `Cardboard` contains all the files for the cardboard version of the cassette. It contains one version for lasercutters (`\Lasercut`) and one for manual cutting using an Xacto knife (`\Manual`). Please note that if you are lasercutting the cardboard version, you will have to leave the pieces to ventilate so that there is no residual burn odor (you can also adjust the settings to decrease burning as much as possible, and can also put the pieces with an ozone generator to speed up the deodorization). For manual cutting, print out the pages (PDF) and paste them on 2.5 mm cardboard. Then use an exacto knife to follow lines.
+For our toolkit to be practical, you'll need scratch-and-sniff stickers. Commercial scratch-and-sniff stickers for children are incredibly accessible and cheap, including good and bad scents. We created a dataset of 800 scratch-and-sniff stickers from 22 brands to facilitate sticker selection. We manually extracted each sticker’s scent, dimensions, and price per cm2. The dataset includes 538 unique scents, depicting a wide variety at costs as low as 0.00035 USD per cm2. [You can find its CSV here!](https://github.com/humancomputerintegration/smell-and-paste/blob/main/CommercialSaS_v00.csv) (Jas recommends Just For Laughs' [Stink Factory stickers](https://www.thestinkfactory.com/) for their variety and price.)
+
 
 ## Licensing & Citing
 
