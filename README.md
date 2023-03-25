@@ -13,7 +13,7 @@ This is a repository for the Smell & Paste low-fidelity prototyping toolkit for 
 
 `3D_Print` contains all the files for the 3D printed version of the cassette. It contains both the parametric Fusion 360 file (`Cassette_3dPrinted_v69.f3d`) as well as all the STL files for printing off the bat (`\STL`). You will have to print two of the rollers (`SaP_Nylon_Roller.stl`) and spools (`SaP_Nylon_Spool.stl`) for one cassette.
 
-![Photographs of the 3D printed kit laid out.](https://github.com/humancomputerintegration/Reference_Images/SaP_Cardboard.jpg)
+![Photographs of the 3D printed kit laid out.](https://github.com/humancomputerintegration/smell-and-paste/Reference_Images/SaP_Cardboard.jpg)
 
 | Item                              | Sourcing            | Quantity | Example Source | Unit Cost  | Total Cost | Note                                                                                                     |
 |-----------------------------------|---------------------|----------|----------------|------------|------------|----------------------------------------------------------------------------------------------------------|
@@ -40,7 +40,7 @@ All 3D printed parts do not need any support structures except for the spools (a
 
 `Cardboard` contains all the files for the cardboard version of the cassette. It contains one version for lasercutters (`\Lasercut`) and one for manual cutting using an Xacto knife (`\Manual`). Please note that if you are lasercutting the cardboard version, you will have to leave the pieces to ventilate so that there is no residual burn odor (you can also adjust the settings to decrease burning as much as possible, and can also put the pieces with an ozone generator to speed up the deodorization). For manual cutting, print out the pages (PDF) and paste them on 2.5 mm cardboard. Then use an exacto knife to follow lines.
 
-![Photographs of the cardboard kit laid out and assembled.](https://github.com/humancomputerintegration/Reference_Images/SaP_Cardboard.jpg)
+![Photographs of the cardboard kit laid out and assembled.](https://github.com/humancomputerintegration/smell-and-paste/Reference_Images/SaP_Cardboard.jpg)
 
 | Item                                                 | Sourcing            | Quantity | Example Source | Unit Cost  | Total Cost | Note                                                                                                     |
 |------------------------------------------------------|---------------------|----------|----------------|------------|------------|----------------------------------------------------------------------------------------------------------|
