@@ -1,6 +1,6 @@
 # Smell & Paste toolkit
 
-This is a repository for the Smell & Paste low-fidelity prototyping toolkit for olfactory experiences, which was presented at ACM CHI 2023. The device is in fact a 3-channel olfactory interface created by [Jas Brooks](https://jasbrooks.net) and [Pedro Lopes](https://plopes.org) at the University of Chicago's [Human Computer Integration Lab](https://lab.plopes.org/).
+This is a repository for the Smell & Paste low-fidelity prototyping toolkit for olfactory experiences, which was presented at ACM CHI 2023. The kit is a cassette that takes in scratch-and-sniff stickers by [Jas Brooks](https://jasbrooks.net) and [Pedro Lopes](https://plopes.org) at the University of Chicago's [Human Computer Integration Lab](https://lab.plopes.org/).
 
 [Paper](https://lab.plopes.org/published/2023-CHI-SmellPaste.pdf) | [CHI Talk Video](https://youtu.be/vVBhl13b0PE)
 
@@ -8,6 +8,8 @@ This is a repository for the Smell & Paste low-fidelity prototyping toolkit for 
 
 
 ## Putting together a kit
+
+So you want to try out Smell & Paste!
 
 ### 3D Printed version
 
